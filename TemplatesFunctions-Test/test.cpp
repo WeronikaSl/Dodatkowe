@@ -8,5 +8,5 @@ TEST(PushToVec, Push_IsVariableAdded_ReturnSizeOfVec)
 
 TEST(PushToVec, Push_IsStringAdded_ReturnSizeOfVec)
 {
-	EXPECT_EQ(1, (pushToVec("hi")).size());
+	EXPECT_EQ(1, (pushToVec<std::string>("hi")).size());
 }

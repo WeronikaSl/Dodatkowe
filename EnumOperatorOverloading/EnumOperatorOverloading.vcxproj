@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{329645f6-d873-451c-b9d6-dd5a1fac0add}</ProjectGuid>
-    <RootNamespace>TemplatesFunctions</RootNamespace>
+    <ProjectGuid>{f345a4d9-1576-443b-9594-a56589a3bf03}</ProjectGuid>
+    <RootNamespace>EnumOperatorOverloading</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,10 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="TemplatesFunctions.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Functions.hpp" />
+    <ClCompile Include="EnumOperatorOverloading.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

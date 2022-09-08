@@ -5,7 +5,7 @@
 
 int main()
 {
-    for (const auto& v : pushToVec("hi"))
+    for (const auto& v : pushToVec<std::string>("hi"))
     {
         std::cout << v << std::endl;
     }
