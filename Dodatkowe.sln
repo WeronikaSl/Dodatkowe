@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FuntorDlaKontenerowAsocjacy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassStructEnumUnion", "ClassStructEnumUnion\ClassStructEnumUnion.vcxproj", "{E461FC09-9C8B-430C-9555-9A4CB755B51F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BubbleSortVectorTemplate", "BubbleSortVectorTemplate\BubbleSortVectorTemplate.vcxproj", "{1B0FB364-FF00-4DDB-A103-37053B9BED2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{E461FC09-9C8B-430C-9555-9A4CB755B51F}.Release|x64.Build.0 = Release|x64
 		{E461FC09-9C8B-430C-9555-9A4CB755B51F}.Release|x86.ActiveCfg = Release|Win32
 		{E461FC09-9C8B-430C-9555-9A4CB755B51F}.Release|x86.Build.0 = Release|Win32
+		{1B0FB364-FF00-4DDB-A103-37053B9BED2A}.Debug|x64.ActiveCfg = Debug|x64
+		{1B0FB364-FF00-4DDB-A103-37053B9BED2A}.Debug|x64.Build.0 = Debug|x64
+		{1B0FB364-FF00-4DDB-A103-37053B9BED2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B0FB364-FF00-4DDB-A103-37053B9BED2A}.Debug|x86.Build.0 = Debug|Win32
+		{1B0FB364-FF00-4DDB-A103-37053B9BED2A}.Release|x64.ActiveCfg = Release|x64
+		{1B0FB364-FF00-4DDB-A103-37053B9BED2A}.Release|x64.Build.0 = Release|x64
+		{1B0FB364-FF00-4DDB-A103-37053B9BED2A}.Release|x86.ActiveCfg = Release|Win32
+		{1B0FB364-FF00-4DDB-A103-37053B9BED2A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
